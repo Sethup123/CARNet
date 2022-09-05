@@ -4,6 +4,3 @@
 - Provide the path for the AWA2 dataset in the 'DATA_DIR' variable in the notebook 
 - Run the notebook to get the ZSL result of the proposed CARNet method for the AWA2 dataset 
 - Variables 'USE_ATTRIBUTE_REFINEMENT' and 'USE_CIRCLE_LOSS' can be set to 'False' to get results without attribute refinement and circle loss 
-
-## Continual Zero-Shot Learning
-- We will provide the code by 8th SEP (AoE)
