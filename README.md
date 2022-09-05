@@ -5,4 +5,4 @@
 - Run the notebook to get the ZSL result of the proposed CARNet method for the AWA2 dataset 
 - Variables 'USE_ATTRIBUTE_REFINEMENT' and 'USE_CIRCLE_LOSS' can be set to 'False' to get results without attribute refinement and circle loss 
 
-**Note**: Due to some unknown reason, the code in the notebook might be repeated twice when viewed from the browser directly from the link. However, if you download the notebook and view it in the jupyter notebook this problem does not occur 
+**Note**: Due to some unknown reasons, the code in the notebook might be repeated twice when viewed from the browser directly from the link. However, if you download the notebook and view it in the jupyter notebook this problem does not occur 
