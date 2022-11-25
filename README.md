@@ -1,4 +1,4 @@
-# Refinement Matters: Textual Description Needs to be Refined for Zero-shot Learning (EMNLP-2022 (Findings))
+## Paper: Refinement Matters: Textual Description Needs to be Refined for Zero-shot Learning (EMNLP-2022 (Findings))
 
 ## Zero-Shot Learning
 - Download the AWA2 dataset using [link1](https://ucd87450812424dd5f5310084846.dl.dropboxusercontent.com/zip_download_get/BPxEKZxCv9OoR_JMA5jDhKlGlOLf6nXklQwUj2Fe6N45oaETF5UWcbWc_wkabae6xEtlJ6JIqfsF39A34c5w_qdIB4eeEMoX0b1IWKrDsHhi-Q?_download_id=9877838024212446752499356269108523061931480590683578519375119005&_notify_domain=www.dropbox.com)/[link2](https://www.dropbox.com/scl/fo/2a0lr4jjagfeok2cixsrv/h?dl=0&rlkey=0xn642sr9jsraacfnta1ti44d)
